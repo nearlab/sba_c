@@ -1,3 +1,12 @@
+****************************
+
+This is a modified verison of the original SBA package.
+It currently hijacks the demo file in order to crudely execute bundle adjustment in MATLAB on Linux systems.
+
+****************************
+
+
+
     **************************************************************
                                  SBA 
                               version 1.6
